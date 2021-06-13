@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-advanced-2020/static/css/main.e2744403.chunk.css",
-    "main.js": "/react-advanced-2020/static/js/main.d95ea4bb.chunk.js",
-    "main.js.map": "/react-advanced-2020/static/js/main.d95ea4bb.chunk.js.map",
+    "main.js": "/react-advanced-2020/static/js/main.d92f170a.chunk.js",
+    "main.js.map": "/react-advanced-2020/static/js/main.d92f170a.chunk.js.map",
     "runtime-main.js": "/react-advanced-2020/static/js/runtime-main.66de057a.js",
     "runtime-main.js.map": "/react-advanced-2020/static/js/runtime-main.66de057a.js.map",
     "static/js/2.0806d430.chunk.js": "/react-advanced-2020/static/js/2.0806d430.chunk.js",
     "static/js/2.0806d430.chunk.js.map": "/react-advanced-2020/static/js/2.0806d430.chunk.js.map",
     "index.html": "/react-advanced-2020/index.html",
-    "precache-manifest.4386f97f81ca34f4e4deb662c1e770f9.js": "/react-advanced-2020/precache-manifest.4386f97f81ca34f4e4deb662c1e770f9.js",
+    "precache-manifest.6d50a00042cd98e47464ad337aa20ff4.js": "/react-advanced-2020/precache-manifest.6d50a00042cd98e47464ad337aa20ff4.js",
     "service-worker.js": "/react-advanced-2020/service-worker.js",
     "static/css/main.e2744403.chunk.css.map": "/react-advanced-2020/static/css/main.e2744403.chunk.css.map",
     "static/js/2.0806d430.chunk.js.LICENSE.txt": "/react-advanced-2020/static/js/2.0806d430.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.66de057a.js",
     "static/js/2.0806d430.chunk.js",
     "static/css/main.e2744403.chunk.css",
-    "static/js/main.d95ea4bb.chunk.js"
+    "static/js/main.d92f170a.chunk.js"
   ]
 }
