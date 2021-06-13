@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-advanced-2020/static/css/main.e2744403.chunk.css",
+    "main.js": "/react-advanced-2020/static/js/main.7ba1f0e0.chunk.js",
+    "main.js.map": "/react-advanced-2020/static/js/main.7ba1f0e0.chunk.js.map",
+    "runtime-main.js": "/react-advanced-2020/static/js/runtime-main.66de057a.js",
+    "runtime-main.js.map": "/react-advanced-2020/static/js/runtime-main.66de057a.js.map",
+    "static/js/2.88bf9f60.chunk.js": "/react-advanced-2020/static/js/2.88bf9f60.chunk.js",
+    "static/js/2.88bf9f60.chunk.js.map": "/react-advanced-2020/static/js/2.88bf9f60.chunk.js.map",
+    "index.html": "/react-advanced-2020/index.html",
+    "precache-manifest.f65cb8174bc042dd089b3bee55a67b21.js": "/react-advanced-2020/precache-manifest.f65cb8174bc042dd089b3bee55a67b21.js",
+    "service-worker.js": "/react-advanced-2020/service-worker.js",
+    "static/css/main.e2744403.chunk.css.map": "/react-advanced-2020/static/css/main.e2744403.chunk.css.map",
+    "static/js/2.88bf9f60.chunk.js.LICENSE.txt": "/react-advanced-2020/static/js/2.88bf9f60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66de057a.js",
+    "static/js/2.88bf9f60.chunk.js",
+    "static/css/main.e2744403.chunk.css",
+    "static/js/main.7ba1f0e0.chunk.js"
+  ]
+}
