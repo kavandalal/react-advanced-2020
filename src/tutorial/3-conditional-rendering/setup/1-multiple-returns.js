@@ -40,6 +40,7 @@ const MultipleReturns = () => {
   }
   return (
     <div>
+      <p>Multiple returns</p>
       <h1>{user}</h1>
     </div>
   );

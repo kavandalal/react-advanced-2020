@@ -19,6 +19,7 @@ const UseEffectCleanup = () => {
     });
   })
   return <>
+    <p>useEffect Cleanup</p>
     <h1>Window Size</h1>
     <h3>{size} PX</h3>
   </>;

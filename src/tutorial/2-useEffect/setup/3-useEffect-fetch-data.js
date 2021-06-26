@@ -15,6 +15,7 @@ const UseEffectFetchData = () => {
     getUsers();
   }, []);
   return <>
+      <p>useEffect fetch data</p>
     <h3>Users</h3>
     <ul className='users'>
       {users.map((person) =>{

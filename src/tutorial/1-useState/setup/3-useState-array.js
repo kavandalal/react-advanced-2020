@@ -10,6 +10,7 @@ const UseStateArray = () => {
     });
   }
   return <>
+  <p>useState array</p>
     {/* <></> same as React.Fragment */}
     {people.map((person) => {
       const { id, name } = person;

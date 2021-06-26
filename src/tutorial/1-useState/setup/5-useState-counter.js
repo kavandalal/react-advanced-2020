@@ -26,6 +26,7 @@ const reset = () => {
     },2000);
   }
   return <>
+  <p>useState Counter</p>
     <h2>Regular Counter</h2>
     <h2>{count}</h2>
     <button className='btn'onClick={dec}>Decrease</button>

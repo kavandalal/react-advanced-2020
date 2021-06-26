@@ -7,6 +7,7 @@ const ErrorExample = () => {
   }
   return (
     <>
+      <p>Error Example</p>
       <h2>{title}</h2>
       <button type="button" className='btn' onClick={ClickBtn}>
         change Title

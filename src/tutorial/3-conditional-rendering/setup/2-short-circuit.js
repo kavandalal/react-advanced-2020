@@ -18,6 +18,7 @@ const ShortCircuit = () => {
 
   return (
     <>
+    <p>Short Circuit</p>
       {/* <h1>{firstValue}</h1>
       <h1>value : {secondValue}</h1> */}
       

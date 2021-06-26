@@ -18,6 +18,7 @@ const UseEffectBasics = () => {
       }
     },[value]);
   return <>
+  <p>useEffect Basics</p>
     <h2>{value}</h2>
     <button type='button' className='btn' onClick={() => setValue(value + 1)}>Click Me</button>
   </>;
